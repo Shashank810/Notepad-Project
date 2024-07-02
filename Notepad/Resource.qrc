@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Resourse/Icons/add-file.png</file>
+        <file>Resourse/Icons/data-storage.png</file>
+        <file>Resourse/Icons/exit.png</file>
+        <file>Resourse/Icons/subscript.png</file>
+        <file>Resourse/Icons/superscript (1).png</file>
+        <file>Resourse/Icons/folder.png</file>
+        <file>Resourse/Icons/bold-text.png</file>
+    </qresource>
+</RCC>
